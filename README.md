@@ -33,7 +33,10 @@
         - **quantity** (number): The available quantity of the product in stock.
         - **inStock** (boolean): Indicates whether the product is currently in stock.
 
+
+
 ## Main Section (50 Marks):
+
 
 ## Product Management
 
