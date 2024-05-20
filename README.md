@@ -9,7 +9,7 @@
 
 ### Define Data Models
 
-- Create Mongoose models for **Product** data based on the provided data structure. (You can follow sample-data.json file for ideas.
+- Create Mongoose models for **Product** data based on the provided data structure. (You can follow [sample-data.json](./sample-data.json) file for ideas).
 - Define appropriate data types, validations.
 
 ### E-commerce Product Data Types
