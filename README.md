@@ -391,7 +391,7 @@
 
 ### **3. Retrieve Orders by User Email**
 
-- **Endpoint**: **`/api/orders?email=**level2@programming-hero.com`
+- **Endpoint**: `/api/orders?email=level2@programming-hero.com`
 - **Method:** `GET`
 - **Sample Response**:
     
