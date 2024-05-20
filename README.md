@@ -275,7 +275,7 @@
 
 ### **6. Search a product**
 
-- **Endpoint**: **`/api/products?searchTerm=iphone`**
+- **Endpoint**: `/api/products?searchTerm=iphone`
 - **Method: GET**
 - **Sample Response**:
 
@@ -334,7 +334,7 @@
 
 ### **Order Management API Endpoints**
 
-### **1. Create a New Order**
+### **1.Create a New Order**
 
 - **Endpoint**: **`/api/orders`**
 - **Method: `POST`**
@@ -366,7 +366,7 @@
     ```
     
 
-### **2. Retrieve All Orders**
+### **2.Retrieve All Orders**
 
 - **Endpoint**: **`/api/orders`**
 - **Method: `GET`**
