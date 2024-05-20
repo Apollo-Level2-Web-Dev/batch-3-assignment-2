@@ -506,7 +506,7 @@ When creating new order (**`/api/orders`** ) ,reduce the `quantity` of the order
 
 ### **Submission Format for Our Submission Box: (Please use the following format for your submissions:)**
 
-- GitHub Repository URL (Server): https://github.com/Apollo-Level2-Web-Dev   ( There is no private repo for this assignment,you can use your repository)
+- GitHub Repository URL (Server): https://github.com/Apollo-Level2-Web-Dev   ( There is no private repository for this assignment,you can use your repository)
 - Live Server Link: https://web.programming-hero.com/
 
 
