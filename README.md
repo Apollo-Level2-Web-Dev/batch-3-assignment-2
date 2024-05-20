@@ -412,16 +412,6 @@
     ```
     
 
-### 
-
-```json
-{
-    "success": true,
-    "message": "Order deleted successfully!",
-    "data": null
-}
-```
-
 ## **Bonus Section (10 Marks):**
 
 **Inventory Update**: 
