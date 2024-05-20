@@ -459,7 +459,7 @@ When creating new order (**`/api/orders`** ) ,reduce the `quantity` of the order
 
 ### **Validation with Joi/Zod**
 
-- Use **Joi/Zod** to validate incoming data for user and order creation and updating operations.
+- Use **Joi/Zod** to validate incoming data for product and order creation and updating operations.
 - Ensure that the data adheres to the structure defined in the models.
 - Handle validation errors gracefully and provide meaningful error messages in the API responses.
 
