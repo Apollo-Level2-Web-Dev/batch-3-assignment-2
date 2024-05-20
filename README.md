@@ -500,9 +500,15 @@ When creating new order (**`/api/orders`** ) ,reduce the `quantity` of the order
 
 ### **Submission:**
 
-- Share the GitHub repository link.
-- Share the live deployment link.
+- Share the GitHub Repository link.
+- Share the Live Deployment link.
 - Include a README file with clear instructions on how to run the application locally.
+
+### **Submission Format for Our Submission Box: (Please use the following format for your submissions:)**
+
+- GitHub Repository URL (Server): https://github.com/Apollo-Level2-Web-Dev
+- Live Server Link: https://web.programming-hero.com/
+
 
 ### **Deadline:**
 
