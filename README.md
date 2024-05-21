@@ -5,7 +5,7 @@
 ### Set up the Project
 
 - Create a new Express project.
-- Set up a MongoDB database using Mongoose for storing user and order data.
+- Set up a MongoDB database using Mongoose for storing product and order data.
 
 ### Define Data Models
 
